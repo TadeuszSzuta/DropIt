@@ -11,5 +11,6 @@ Produkt -> Koszyk -> Płatność
 ### Uruchomienie
 
 1. Wejść do katalogu /DropIt/Backend
-2. W konsoli wpisać "npm run server"
-3. Aby wyświetlić aplikację, w przeglądarce należy wpisać http://localhost:5000
+2. W konsoli wpisać "npm install" - pobranie zależności
+3. Uruchomić server BE - "npm run server"
+4. Aby wyświetlić aplikację, w przeglądarce należy wpisać http://localhost:5000
